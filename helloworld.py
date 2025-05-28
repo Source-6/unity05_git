@@ -6,3 +6,5 @@ print(randint (1,6))
 
 print("this is the end")
 print(" *>* ")
+
+print("o_o")
