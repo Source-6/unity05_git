@@ -4,4 +4,5 @@ print("hello, wolrd !!")
 
 print(randint (1,6))
 
-print("aaaaaaaaaaaaaaaaaaaaaaathis is the end")
+print("this is the end")
+print(" *>* ")
